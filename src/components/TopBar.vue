@@ -32,21 +32,17 @@
     </div>
 
     <nav class="tb-social" aria-label="相关链接">
-      <a href="https://www.laogou717.com" target="_blank" rel="noopener noreferrer" title="我的博客">
+      <a href="https://xcwyb.com" target="_blank" rel="noopener noreferrer" title="我的博客">
         <Icon name="blog" :size="16" aria-hidden="true" />
       </a>
-      <a href="https://github.com/laogou717/md-wechat" target="_blank" rel="noopener noreferrer" title="GitHub 仓库">
-        <Icon name="github" :size="16" aria-hidden="true" />
-      </a>
+
       <a href="https://raw.githubusercontent.com/JonasTech0/Jonas-imgs-240211/main/imagesIMG_2767.png" target="_blank" rel="noopener noreferrer" title="请我喝咖啡">
         <Icon name="coffee" :size="16" aria-hidden="true" />
       </a>
-      <a href="https://x.com/shenfanlaogou" target="_blank" rel="noopener noreferrer" title="X（Twitter）">
+      <a href="https://x.com/xcwyb0516" target="_blank" rel="noopener noreferrer" title="X（Twitter）">
         <Icon name="xlogo" :size="14" aria-hidden="true" />
       </a>
-      <a href="https://space.bilibili.com/46377861" target="_blank" rel="noopener noreferrer" title="B站">
-        <Icon name="bilibili" :size="16" aria-hidden="true" />
-      </a>
+
     </nav>
   </header>
 </template>
