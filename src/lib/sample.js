@@ -170,7 +170,7 @@ export const samples = [
   {
     id: 'welcome',
     eyebrow: '默认示例',
-    title: '公众号太久没更新，我顺手写了个排版工具',
+    title: '公众号文章排版工具用法',
     description: '项目介绍，以及一篇覆盖全部常用格式的演示文。',
     md: introArticle,
     content: introArticle,
