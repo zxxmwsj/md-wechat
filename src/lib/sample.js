@@ -21,7 +21,7 @@ const introArticle = `# 用法很简单：
 
 一段话里可以塞下：*星号斜体*、_下划线斜体_、**星号粗体**、__下划线粗体__、***粗斜体同时出现***、~~删除线~~、==高亮标记==，以及 \`行内代码\`。
 
-链接的花样也不少：[普通链接](https://github.com/laogou717/md-wechat)、[带提示的链接](https://commonmark.org/ "Markdown 基础参考")、[参考式链接][style-guide]、自动链接 <https://commonmark.org/>、邮箱 <editor@example.com>，以及什么都不写的裸链接 https://github.com/laogou717/md-wechat 。
+链接的花样也不少：[带提示的链接](https://commonmark.org/ "Markdown 基础参考")、[参考式链接][style-guide]、自动链接 <https://commonmark.org/>、邮箱 <editor@example.com>，以及什么都不写的裸链接。
 
 反斜杠可以保留 \\*原样星号\\* 和 \\# 非标题文字；实体字符 &copy;、&amp;、&lt; 也会安全显示。超长英文词不会把版面撑破：supercalifragilisticexpialidociousAndAnotherUnbrokenTokenForOverflowTesting。
 
@@ -159,9 +159,7 @@ def publish(article):
 
 ## 最后
 
-这个工具解决的就是我自己的一个小痛点：写完的东西，能体面地发出去。如果你也有同样的需要，欢迎来 GitHub 看看：
-
-项目地址：https://github.com/laogou717/md-wechat
+这个工具解决的就是我自己的一个小痛点：写完的东西，能体面地发出去。
 
 公众号的读者，点一下文末的「阅读全文」就能直达。
 
