@@ -36,7 +36,7 @@
         <Icon name="blog" :size="16" aria-hidden="true" />
       </a>
 
-      <a href="https://raw.githubusercontent.com/JonasTech0/Jonas-imgs-240211/main/imagesIMG_2767.png" target="_blank" rel="noopener noreferrer" title="请我喝咖啡">
+      <a href="https://imgbed.xcwyb.com/file/1784468318140_20260719213750_566_82.jpg" target="_blank" rel="noopener noreferrer" title="请我喝咖啡">
         <Icon name="coffee" :size="16" aria-hidden="true" />
       </a>
       <a href="https://x.com/xcwyb0516" target="_blank" rel="noopener noreferrer" title="X（Twitter）">
