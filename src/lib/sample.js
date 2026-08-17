@@ -1,4 +1,4 @@
-const introArticle = `用法简单到没什么好教的：
+const introArticle = `# 用法很简单：
 
 1. 把写好的 Markdown 文件导入进来，或者把 AI 写的文章直接复制、粘贴到左边；
 2. 右边实时就是排版结果，去主题库挑一套顺眼的；
